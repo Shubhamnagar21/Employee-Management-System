@@ -17,19 +17,19 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/home_screeen.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/add_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/delete_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/delete_an_employee_2.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/update_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/update_an_employee_2.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/view_all_employee.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/add_an_employee.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/delete_an_employee.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/delete_an_employee_2.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/home_screeen.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/update_an_employee.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/update_an_employee_2.png)
+![App Screenshot](https://github.com/Shubhamnagar21/Employee-Management-System/blob/main/screenshots/view_all_employee.png)
 
 ## Setup
 - Fork this repo
 - Clone repo
 ```sh
-git clone https://github.com/OnkarSagare27/employee-management-mysql.git
+git clone https://github.com/Shubhamnagar21/Employee-Management-System.git
 ```
 - Configure stuff in ``config.json``
 ```json
